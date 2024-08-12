@@ -1,5 +1,5 @@
 # FairSim
-Codeforces API scraper for ICPC/IOI contests to check for the correlation between # of teams vs # of solved problems.
+Codeforces API scraper for ICPC/IOI contests to maximize enjoyability while preparing for the ICPC and the IOI.
 
 ## Motivation
 One way to practice one's Competitive Programming skills involves participating in "simulations": taking old, real problem sets used for in-person competitions and solving them as a team, simulating the contest environment as closely as possible. 
